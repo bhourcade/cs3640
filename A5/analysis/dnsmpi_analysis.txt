@@ -1,0 +1,36 @@
+Estimated overall voluntary DNSMPI link adoption rate among American universities
+1/123 = 0.008
+Estimated voluntary DNSMPI link adoption rate among American universities in California
+1/40 = 0.025
+Estimated voluntary DNSMPI link adoption rate among American universities outside of California
+0/83 = 0.0
+
+Two-sample z-test for a significant difference in the proportion of volunary DNSMPI link adoption among American universities
+Alpha level: 0.05
+California - Non-California: P-value = 0.31118, Significant = False
+
+Compliance rate among American universities required to have a DNSMPI link
+7/28 = 0.25
+
+The following 21 universities did not fulfill DNSMPI obligations
+https://westcoastuniversity.edu/
+https://americancareercollege.edu/
+https://www.ecpi.edu/
+https://www.columbiasouthern.edu/
+https://www.eaglegatecollege.edu/
+https://www.fnu.edu/
+https://post.edu/
+https://www.cnsu.edu/
+https://www.sullivan.edu/
+https://usa.sae.edu/
+https://www.icom.edu/
+https://www.mildred-elley.edu/
+https://www.monroeu.edu/
+https://www.national.edu/
+https://www.nwciowa.edu/
+https://www.pacificcollege.edu/
+https://www.penncotech.edu/
+https://porterchester.edu/
+https://www.rvu.edu/
+https://www.south.edu/
+https://www.mi.edu/
